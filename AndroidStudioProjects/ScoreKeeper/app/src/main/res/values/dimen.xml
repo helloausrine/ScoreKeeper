@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeTeam">15sp</dimen>
+    <dimen name="textSizeScore">60sp</dimen>
+    <dimen name="upperTextMargin">30dp</dimen>
+    <dimen name="upperTextBottom">24dp</dimen>
+    <dimen name="buttonMarginSides">24dp</dimen>
+    <dimen name="buttonMarginBottom">8dp</dimen>
+    <dimen name="separator">1dp</dimen>
+    <dimen name="separatorMargin">20dp</dimen>
+    <dimen name="resetMargin">40dp</dimen>
+
+</resources>
